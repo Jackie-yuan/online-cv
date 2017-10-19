@@ -21,9 +21,10 @@ pic: 袁野证件照 清晰版.jpg  #place a 100x100 picture inside /assets/imag
 email: 17408709@life.hkbu.edu.hk
 phone: 56127780
 website: yuanyejack.blogspot.hk #do not add http://
+github:jackie-yuan.github.io
 
 
 
 # Tracker
-#analytics: UA-83979019-1
+analytics: UA-83979019-1
 #Update all the sections by editing the files inside _includes folder.
