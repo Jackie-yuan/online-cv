@@ -14,7 +14,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Yuan Ye
-tagline: Full Stack Developer
+tagline: Hong Kong Baptist University
 pic: 袁野证件照 清晰版.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
